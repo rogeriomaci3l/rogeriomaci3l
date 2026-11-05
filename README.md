@@ -14,7 +14,3 @@ I am a developer focused on building intuitive, responsive, and visually clean w
 * **Front-End:** HTML5, CSS3, JavaScript, React
 * **Back-End & Data:** Python, C#, Java (Familiar), SQL
 * **UI/UX & Tools:** Figma, Git/GitHub, VS Code
-
-### Highlighted Projects
-* **Interactive Web Application (FNAF Theme):** A full-stack web project featuring custom dark modes, audio triggers, and ARG elements.
-* **Credit Analysis Machine Learning Pipeline:** Developed a data analysis pipeline combining K-Means clustering and MLP neural networks in Python.
