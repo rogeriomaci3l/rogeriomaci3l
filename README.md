@@ -1,47 +1,20 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=400&size=65&pause=2000&color=FF0000&center=true&vCenter=true&width=700&height=100&lines=ROGÉRIO+MACIEL;FRONT-END;DESIGN+IMPECÁVEL" alt="Header SVG" />
-</div>
+# Rogério Gomes Lacerda Maciel
+**Front-End Web Developer & UI Designer**
 
-<div align="center">
-  <p style="color: #ffffff;"><b>19 ANOS &nbsp;&nbsp;|&nbsp;&nbsp; FRONT-END &nbsp;&nbsp;|&nbsp;&nbsp; ROTEIRISTA</b></p>
-</div>
+---
 
-<br><br>
+### About Me
+I am a developer focused on building intuitive, responsive, and visually clean web applications. I bridge the gap between solid code architecture and high-quality user interfaces.
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=400&size=35&color=FFFFFF&center=true&vCenter=true&width=400&height=60&lines=A+R+S+E+N+A+L" alt="Arsenal" />
-</div>
+- 🎓 Currently pursuing a B.S. in **Systems Analysis and Development** at **Universidade Santa Cecília (Unisanta)** (Expected 2027).
+- 🏆 Participated in the **Piersec Hackathon**, designing and developing front-end dashboard components for a cybersecurity platform under a tight deadline.
+- 💻 Experienced in creating interactive web experiences, custom UI designs, and data-driven solutions.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF0000" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FF0000" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF0000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF0000" alt="React" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=FF0000" alt="C#" />
-</div>
+### Tech Stack
+* **Front-End:** HTML5, CSS3, JavaScript, React
+* **Back-End & Data:** Python, C#, Java (Familiar), SQL
+* **UI/UX & Tools:** Figma, Git/GitHub, VS Code
 
-<br><br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=400&size=35&color=FFFFFF&center=true&vCenter=true&width=400&height=60&lines=D+I+R+E+T+R+I+Z+E+S" alt="Diretrizes" />
-</div>
-
-<div align="center">
-  <p>
-    O front-end pensado com a precisão de um roteiro de cinema.<br>
-    Estruturas sólidas, interfaces limpas e alinhamentos milimétricos.<br>
-    Zero excessos. Código brutal, design impecável.
-  </p>
-</div>
-
-<br><br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=400&size=35&color=FFFFFF&center=true&vCenter=true&width=400&height=60&lines=M+É+T+R+I+C+A+S" alt="Métricas" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rogeriomaci3l&show_icons=true&bg_color=000000&text_color=FFFFFF&icon_color=FF0000&title_color=FF0000&hide_border=true&border_radius=0" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rogeriomaci3l&background=000000&text=FFFFFF&icon=FF0000&dates=FFFFFF&ring=FF0000&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF&border=000000&hide_border=true&border_radius=0" width="48%" />
-</div>
+### Highlighted Projects
+* **Interactive Web Application (FNAF Theme):** A full-stack web project featuring custom dark modes, audio triggers, and ARG elements.
+* **Credit Analysis Machine Learning Pipeline:** Developed a data analysis pipeline combining K-Means clustering and MLP neural networks in Python.
